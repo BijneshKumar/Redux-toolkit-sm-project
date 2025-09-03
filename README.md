@@ -1,10 +1,10 @@
-##Live Demo on Github Pages - https://bijneshkumar.github.io/Redux-toolkit-sm-project/
+## Live Demo on Github Pages - https://bijneshkumar.github.io/Redux-toolkit-sm-project/
 
-#Add to Cart App (React + Redux Toolkit)
+# Add to Cart App (React + Redux Toolkit)
 
 This is a simple React project demonstrating how to implement an Add to Cart functionality using Redux Toolkit for state management.
 
-##Features
+## Features
 
 - Display a list of products
 
